@@ -594,6 +594,11 @@ footer h2 {
   footer .copyright {
     padding-top: 60px;
   }
+  .mySwiper2 .buyButton{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
 
   /*Mobile & Tablet*/
   @media (max-width: 992px) {
